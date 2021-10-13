@@ -1,0 +1,35 @@
+h2 {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 250%;
+}
+
+
+h3 {
+	color: #FFF;
+	background-color: #109EC4;	
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 200%; 
+}
+
+h4 {
+	color: #FFF;
+	font-size: 150%;
+}
+
+.foto {
+	height: 275px;
+	width: 200px;
+	padding: 10px;
+	margin: 10px;
+	display: block;
+	float: left;
+}
+
+.contenedor {
+	margin: 20px;
+}
+
+.texto {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 120%;
+}
